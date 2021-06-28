@@ -1,7 +1,7 @@
 <img src ="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" align="right" width="250" height="280" />
 <h3 align='center'><samp><strong>Hey there! I'm Anshuman Kashyap </strong>😄</samp></h3> 
 
- <h5 align='center'><samp><a href="https://amreshk005.netlify.app/">https://amreshk005.netlify.app/</a></samp></h5>
+ <h5 align='center'><samp><a href="https://anshumank72.netlify.app">https://anshumank72.netlify.app/</a></samp></h5>
 
 <h4 align='center'> <samp>React Developer | Tech Enthusiast </samp></h4>
 
